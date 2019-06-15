@@ -1,7 +1,9 @@
 # hello-world
 this is my first github project
-Never say something!
+Update Something Here.
 and Never say sorry.
 I am Amal.
 
-ggwp
+Now want to push and merge.
+
+add new line again.
