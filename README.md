@@ -7,3 +7,5 @@ I am Amal.
 Now want to push and merge.
 
 add new line again.
+
+add new line again 2.
